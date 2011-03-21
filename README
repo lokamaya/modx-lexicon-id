@@ -1,0 +1,17 @@
+MODx Lexicon ID
+-------------------------
+Internasionalization of MODx in Indonesian language.
+Base on MODx Revolution 2.0.8-pl
+
+HOWTO:
+- Untuk urun-rembug dalam penerjemahan, silahkan di FORK repositori ini.
+- File-file yang secara default terdapat dalam repo ini dicopy dari lexicon EN.
+
+FOLDERS & FILES:
+- core/lexicon/country/id.inc.php
+- core/lexicon/id/* (41 files)
+- setup/lang/id/* (5 files)
+
+Thanks to all Indonesia MODx community
+- http://modx-id.com
+- http://www.facebook.com/pages/Modx-Indonesia/108482275872449
